@@ -21,11 +21,11 @@ Every AWS account has hidden savings waiting to be found. Yours too – let me p
 
 ## 🎓 Certifications
 
-* AWS Generative AI Developer – Professional
-* AWS Security – Specialty
-* AWS Solutions Architect – Associate
-* AWS Developer – Associate
-* HashiCorp Terraform Associate
+* AWS Certified Generative AI Developer – Professional
+* AWS Certified Security Specialty
+* AWS Certified Solutions Architect – Associate
+* AWS Certified Developer – Associate
+* HashiCorp Certified: Terraform Associate
 
 All badges on [Credly](https://www.credly.com/users/tim-rutte/badges).
 
