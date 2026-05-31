@@ -1,6 +1,6 @@
 ## 👋 Hey! I'm Tim Rutte
 
-Solutions Architect for mission-critical Go services on AWS – based in Germany, remote since 2003. 20+ years in software development, helping teams build backend systems that are stable, maintainable, and scalable.
+Staff Software Engineer & Solutions Architect for mission-critical Go services on AWS – based in Germany, remote since 2003. 20+ years in software development, helping teams build backend systems that are stable, maintainable, and scalable.
 
 ## 💼 What I Do
 
