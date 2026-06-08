@@ -23,7 +23,7 @@ Every AWS account has hidden savings waiting to be found. Yours too – let me p
 
 * AWS Certified Solutions Architect – Professional
 * AWS Certified Generative AI Developer – Professional
-* AWS Certified Security - Specialty
+* AWS Certified Security – Specialty
 * AWS Certified Developer – Associate
 * HashiCorp Certified: Terraform Associate
 
