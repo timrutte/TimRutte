@@ -31,7 +31,7 @@ All badges on [Credly](https://www.credly.com/users/tim-rutte/badges).
 
 ## 📝 Blog
 
-* 🇩🇪 [Schlechte Architektur schickt keine Alerts. Sie kostet einfach weiter.](https://timrutte.de/blog/finops-aws-versteckte-architekturkosten/) – FinOps auf AWS jenseits von Savings Plans: Architekturkosten haben kein Dashboard
+* 🇩🇪 [Schlechte Architektur schickt keine Alerts. Sie kostet einfach weiter.](https://timrutte.de/blog/finops-aws-versteckte-architekturkosten/) – FinOps auf AWS jenseits von Savings Plans
 * 🇩🇪 [Wenn AWS eine Region verliert](https://timrutte.de/blog/aws-region-ausfall-multi-region/) – Multi-Region-Strategien und was wirklich zählt, wenn es ernst wird
 * 🇩🇪 [Agentic Coding mit Spec-Driven Development](https://timrutte.de/blog/agentic-coding-spec-driven-development/) – Warum dein KI-Agent Struktur braucht, bevor er Code schreibt
 * 🇩🇪 [Golang in einer PHP-Welt](https://timrutte.de/blog/golang-in-einer-php-welt/) – Hochperformante Services integrieren ohne alles umzubauen
