@@ -10,23 +10,17 @@ Modernizing business-critical backends, clearing technical debt and migrating pl
 
 → [Backend development](https://timrutte.de/en/services/backend-development/) · [Legacy modernization](https://timrutte.de/en/services/legacy-modernization/) · [AWS migration](https://timrutte.de/en/services/aws-migration/)
 
-`Golang` `PHP 8` `gRPC` `ECS Fargate` `Strangler fig` `Terraform` `Zero downtime`
-
 ### When AWS works technically but no longer economically
 
 Cutting AWS costs measurably and questioning the architectural decisions behind them.
 
 → [Reducing AWS costs](https://timrutte.de/en/services/aws-cost-optimization/)
 
-`Cost and Usage Report` `Athena` `Rightsizing` `Savings Plans` `S3 Lifecycle` `Anomaly Detection`
-
 ### When new technology has to move from prototype to production
 
 Integrating AI and automation into existing systems so that identity, operations, cost and quality do not have to be solved afterwards.
 
 → [AI in production](https://timrutte.de/en/services/ai-in-production/) · [Process automation](https://timrutte.de/en/services/process-automation/)
-
-`MCP` `FastMCP` `Amazon Bedrock` `Cognito OAuth` `Event-driven` `SQS` `Audit logging`
 
 ## 🚀 Project Highlights
 
