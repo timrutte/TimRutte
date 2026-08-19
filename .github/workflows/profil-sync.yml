@@ -1,0 +1,45 @@
+# Hält das README mit timrutte.de gleich.
+#
+# Die Website ist die Quelle: sie veröffentlicht /profil.json, dieser Workflow
+# rendert daraus die markierten Abschnitte. Läuft täglich, weil ein neuer
+# Artikel keinen sofortigen Eintrag braucht, und lässt sich von Hand anstoßen.
+#
+# Kein Zugriffstoken nötig: der Workflow schreibt in sein eigenes Repository.
+name: Profil mit timrutte.de abgleichen
+
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profil-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: README aus profil.json erzeugen
+        run: node scripts/aktualisiere-readme.mjs
+
+      - name: Nur committen, wenn sich etwas geändert hat
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README ist bereits aktuell"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Profil mit timrutte.de abgeglichen"
+          git push
