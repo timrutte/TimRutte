@@ -21,7 +21,7 @@ Cutting AWS costs measurably and questioning the architectural decisions behind 
 
 ### When new technology has to move from prototype to production
 
-Integrating AI and automation into existing systems so that identity, operations, cost and quality do not have to be solved afterwards. The fixed-price phone assistant is the way in.
+Integrating AI and automation into existing systems so that identity, operations, cost and quality do not have to be solved afterwards. The AI production review is the entry point, starting at 2,400 euros.
 
 → [AI in production](https://timrutte.de/en/services/ai-in-production/) · [Process automation](https://timrutte.de/en/services/process-automation/)
 <!-- /auto:problemwelten -->
@@ -31,6 +31,7 @@ Integrating AI and automation into existing systems so that identity, operations
 <!-- auto:caseStudies -->
 * [Attribution service for AdTech](https://timrutte.de/en/case-studies/adtech-go-service/) – 3M+ requests per day, <10ms latency per request, 5x more campaigns trackable
 * [Payment backend for 6M users](https://timrutte.de/en/case-studies/vpn-saas/) – 6M+ users, –15% payment drop-offs, –75% deployment time
+* [AWS costs from €15,000 to €2,500](https://timrutte.de/en/case-studies/aws-finops/) – –83% AWS costs, €12,500 less per month, 0 cuts to the feature set
 * [Revenue reporting for AdTech platform](https://timrutte.de/en/case-studies/adtech-legacy/) – –90% incidents, 90%+ test coverage, 0 → 100% infrastructure as code
 * [20-year-old publishing platform](https://timrutte.de/en/case-studies/motorcycle-magazine/) – 6x SEO visibility, 5s → <100ms search times, 20+ years of legacy modernization
 * [Online shop with in-store integration](https://timrutte.de/en/case-studies/motorcycle-retailer/) – €20M revenue in the first year, +10% conversion through ML, Market leader in its segment
