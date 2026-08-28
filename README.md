@@ -1,7 +1,7 @@
 ## 👋 Hey! I'm Tim Rutte
 
 <!-- auto:positionierung -->
-**Cloud & AI Architect** – based in Germany, remote since 2003. More than 20 years in software development. I solve architectural problems in business-critical AWS systems: when cost climbs, when systems hit their limits under load, or when technical debt slows growth down. From the analysis through to production, built with agentic methods that add speed without costing quality.
+**Cloud & Software Architect** – based in Germany, remote since 2003. More than 20 years in software development. I solve architectural problems in business-critical software systems and AWS environments: when technical debt slows growth down, systems hit their limits under load, or cloud cost gets out of hand. From the analysis through to production.
 <!-- /auto:positionierung -->
 
 ## 💼 Three kinds of problems land on my desk
@@ -13,15 +13,15 @@ Modernizing business-critical backends, clearing technical debt and migrating pl
 
 → [Backend development](https://timrutte.de/en/services/backend-development/) · [Legacy modernization](https://timrutte.de/en/services/legacy-modernization/) · [AWS migration](https://timrutte.de/en/services/aws-migration/)
 
-### When AWS works technically but no longer economically
+### When AWS runs, but it has become too expensive, too unstable or too hard to change
 
-Cutting AWS costs measurably and questioning the architectural decisions behind them. The fixed-price cost analysis is the way in.
+Three symptoms of the same cause: the bill climbs, a single fault takes the whole application down, and nobody dares to change anything. I work at the places where that gets decided, and I deliver Terraform and code rather than an assessment.
 
-→ [Reducing AWS costs](https://timrutte.de/en/services/aws-cost-optimization/)
+→ [Reducing AWS costs](https://timrutte.de/en/services/aws-cost-optimization/) · [Improving AWS resilience](https://timrutte.de/en/services/improving-aws-resilience/)
 
-### When new technology has to move from prototype to production
+### Agentic engineering & AI integration
 
-Integrating AI and automation into existing systems so that identity, operations, cost and quality do not have to be solved afterwards. The AI production review is the entry point, starting at 2,400 euros.
+A competence and a way of working rather than a third pillar: I build AI and automation in where they genuinely carry a process, with identity, cost, quality and a fallback path settled. It can also be commissioned on its own.
 
 → [AI in production](https://timrutte.de/en/services/ai-in-production/) · [Process automation](https://timrutte.de/en/services/process-automation/)
 <!-- /auto:problemwelten -->
