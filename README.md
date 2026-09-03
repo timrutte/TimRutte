@@ -56,6 +56,8 @@ All badges on [Credly](https://www.credly.com/users/tim-rutte/badges).
 ## 📝 Blog
 
 <!-- auto:artikel -->
+* [PHP 7.4 to PHP 8.4: what this upgrade really involves](https://timrutte.de/en/blog/php-7-4-to-php-8-4/) – pHP 7.4 has been without security updates since late 2022
+* [Zend Framework 1 is still running. Support ended in 2016.](https://timrutte.de/en/blog/zend-framework-1-end-of-life/) – zend Framework 1 has been without support since 2016 and still runs in production
 * [Cutting AWS costs: from 15,000 to 2,500 euros a month](https://timrutte.de/en/blog/aws-cost-reduction-case-report/) – twelve months of FinOps across two AWS accounts: where the large amounts were and why commitments come last
 * [An AI system on a zero budget: six decisions, three mistakes](https://timrutte.de/en/blog/ai-in-production-on-zero-budget/) – six architectural decisions and three mistakes from an AI side project that must cost nothing
 * [Bad architecture sends no alerts. It just keeps costing.](https://timrutte.de/en/blog/finops-aws-hidden-architecture-costs/) – where four- and five-figure amounts quietly disappear in grown AWS setups, and how to get them back without …
