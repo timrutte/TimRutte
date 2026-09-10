@@ -56,6 +56,7 @@ All badges on [Credly](https://www.credly.com/users/tim-rutte/badges).
 ## 📝 Blog
 
 <!-- auto:artikel -->
+* [An agent is only as good as its context](https://timrutte.de/en/blog/second-brain-for-ai-agents/) – how I moved my knowledge into a Git repository so agents can work with it
 * [PHP 7.4 to PHP 8.4: what this upgrade really involves](https://timrutte.de/en/blog/php-7-4-to-php-8-4/) – pHP 7.4 has been without security updates since late 2022
 * [Zend Framework 1 is still running. Support ended in 2016.](https://timrutte.de/en/blog/zend-framework-1-end-of-life/) – zend Framework 1 has been without support since 2016 and still runs in production
 * [Cutting AWS costs: from 15,000 to 2,500 euros a month](https://timrutte.de/en/blog/aws-cost-reduction-case-report/) – twelve months of FinOps across two AWS accounts: where the large amounts were and why commitments come last
