@@ -35,6 +35,7 @@ A competence and a way of working rather than a third pillar: I build AI and aut
 * [Revenue reporting for AdTech platform](https://timrutte.de/en/case-studies/adtech-legacy/) – –90% incidents, 90%+ test coverage, 0 → 100% infrastructure as code
 * [20-year-old publishing platform](https://timrutte.de/en/case-studies/motorcycle-magazine/) – 6x SEO visibility, 5s → <100ms search times, 20+ years of legacy modernization
 * [Online shop with in-store integration](https://timrutte.de/en/case-studies/motorcycle-retailer/) – €20M revenue in the first year, +10% conversion through ML, Market leader in its segment
+* [SaaS built with coding agents](https://timrutte.de/en/case-studies/agentic-saas-for-trades/) – 5 months to a working platform, 2,000+ pull requests, 3 developers with coding agents
 <!-- /auto:caseStudies -->
 
 ## 💡 Your AWS bill, explained
