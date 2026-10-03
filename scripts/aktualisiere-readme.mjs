@@ -5,8 +5,10 @@
 // zwei Stellen von Hand gepflegt wird, läuft auseinander. Die Website ist die
 // Quelle, dieses README zieht nach.
 //
-// Von Hand gepflegt bleibt alles außerhalb der Marker: Begrüßung, Zertifikate,
-// Kontakt. Innerhalb der Marker wird überschrieben.
+// Von Hand gepflegt bleibt alles außerhalb der Marker: Begrüßung, der
+// Abschnitt zu den AWS-Kosten, Kontakt. Innerhalb der Marker wird
+// überschrieben. Die Zertifikate standen bis Oktober 2026 von Hand hier und
+// nannten fünf, als die Website längst sieben führte.
 //
 // Aufruf: node scripts/aktualisiere-readme.mjs
 import { readFile, writeFile } from 'node:fs/promises';
@@ -43,6 +45,11 @@ const abschnitte = {
     )
     .join('\n\n'),
 
+  // Mit Link auf das Credly-Badge, damit jedes Zertifikat einzeln prüfbar ist.
+  zertifikate: daten.zertifikate
+    .map(z => (z.url ? `* [${z.name}](${z.url})` : `* ${z.name}`))
+    .join('\n'),
+
   caseStudies: daten.caseStudies
     .map(c => `* [${c.name}](${c.url}) – ${c.kennzahlen.join(', ')}`)
     .join('\n'),
@@ -55,13 +62,17 @@ const abschnitte = {
 };
 
 /**
- * Erster Satz der Beschreibung, klein geschrieben, ohne Punkt, bei sehr langen
- * Sätzen an der Wortgrenze gekürzt. Die Liste soll überflogen werden können.
+ * Erster Satz der Beschreibung, ohne Punkt, bei sehr langen Sätzen an der
+ * Wortgrenze gekürzt. Die Liste soll überflogen werden können.
+ *
+ * Die Großschreibung bleibt, wie sie ist. Früher wurde der erste Buchstabe
+ * kleingeschrieben, damit der Teaser nach dem Strich weiterläuft; das machte
+ * aus Eigennamen „go code“, „pHP 8.2“ und „aPI Gateway“.
  */
 function kurz(text, max = 110) {
   let satz = text.split(/(?<=\.)\s/)[0].replace(/\.$/, '');
   if (satz.length > max) satz = satz.slice(0, satz.lastIndexOf(' ', max)) + ' …';
-  return satz.charAt(0).toLowerCase() + satz.slice(1);
+  return satz;
 }
 
 let readme = await readFile(DATEI, 'utf8');
