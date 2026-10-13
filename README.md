@@ -61,6 +61,7 @@ All badges on [Credly](https://www.credly.com/users/tim-rutte/badges).
 ## 📝 Blog
 
 <!-- auto:artikel -->
+* [Eight steps, not a prompt: how I work with coding agents](https://timrutte.de/en/blog/coding-agents-eight-steps/) – The agent works in one of eight steps
 * [Taking over a Go project: the first week](https://timrutte.de/en/blog/taking-over-a-go-project/) – Go code tells you almost everything about itself, except whether it runs
 * [Is your code too old for coding agents?](https://timrutte.de/en/blog/code-too-old-for-coding-agents/) – Whether a coding agent works safely in a codebase is not decided by its age but by whether a command can say …
 * [PHP 8.2 ends on 31 December: what to do now](https://timrutte.de/en/blog/php-8-2-end-of-life/) – PHP 8.2 gets no more security updates from January
