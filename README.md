@@ -61,6 +61,7 @@ All badges on [Credly](https://www.credly.com/users/tim-rutte/badges).
 ## 📝 Blog
 
 <!-- auto:artikel -->
+* [Data mesh on AWS with SageMaker Unified Studio: what I take away from practice](https://timrutte.de/en/blog/data-mesh-sagemaker-unified-studio/) – Data mesh on AWS with SageMaker Unified Studio: what a data product means day to day, where Lake Formation …
 * [Eight steps, not a prompt: how I work with coding agents](https://timrutte.de/en/blog/coding-agents-eight-steps/) – The agent works in one of eight steps
 * [Taking over a Go project: the first week](https://timrutte.de/en/blog/taking-over-a-go-project/) – Go code tells you almost everything about itself, except whether it runs
 * [Is your code too old for coding agents?](https://timrutte.de/en/blog/code-too-old-for-coding-agents/) – Whether a coding agent works safely in a codebase is not decided by its age but by whether a command can say …
