@@ -61,6 +61,7 @@ All badges on [Credly](https://www.credly.com/users/tim-rutte/badges).
 ## 📝 Blog
 
 <!-- auto:artikel -->
+* [php2shell: what is confirmed about the critical PHP flaws](https://timrutte.de/en/blog/php2shell-cve-2026-109618/) – Two critical PHP flaws, patch on 21 October at 14:00 UTC: what is officially confirmed, what is only claimed …
 * [Data mesh on AWS with SageMaker Unified Studio: what I take away from practice](https://timrutte.de/en/blog/data-mesh-sagemaker-unified-studio/) – Data mesh on AWS with SageMaker Unified Studio: what a data product means day to day, where Lake Formation …
 * [Eight steps, not a prompt: how I work with coding agents](https://timrutte.de/en/blog/coding-agents-eight-steps/) – The agent works in one of eight steps
 * [Taking over a Go project: the first week](https://timrutte.de/en/blog/taking-over-a-go-project/) – Go code tells you almost everything about itself, except whether it runs
